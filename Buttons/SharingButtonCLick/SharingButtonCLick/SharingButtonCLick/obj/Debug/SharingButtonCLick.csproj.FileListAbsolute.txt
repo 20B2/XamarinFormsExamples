@@ -1,0 +1,28 @@
+D:\Binod\Dev\MyProjects\Xamarin\Xamarin Forms\Test Projects\Buttons\SharingButtonCLick\SharingButtonCLick\SharingButtonCLick\bin\Debug\SharingButtonCLick.dll
+D:\Binod\Dev\MyProjects\Xamarin\Xamarin Forms\Test Projects\Buttons\SharingButtonCLick\SharingButtonCLick\SharingButtonCLick\bin\Debug\SharingButtonCLick.pdb
+D:\Binod\Dev\MyProjects\Xamarin\Xamarin Forms\Test Projects\Buttons\SharingButtonCLick\SharingButtonCLick\SharingButtonCLick\bin\Debug\Xamarin.Forms.Core.dll
+D:\Binod\Dev\MyProjects\Xamarin\Xamarin Forms\Test Projects\Buttons\SharingButtonCLick\SharingButtonCLick\SharingButtonCLick\bin\Debug\Xamarin.Forms.Platform.dll
+D:\Binod\Dev\MyProjects\Xamarin\Xamarin Forms\Test Projects\Buttons\SharingButtonCLick\SharingButtonCLick\SharingButtonCLick\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Binod\Dev\MyProjects\Xamarin\Xamarin Forms\Test Projects\Buttons\SharingButtonCLick\SharingButtonCLick\SharingButtonCLick\bin\Debug\Xamarin.Forms.Core.pdb
+D:\Binod\Dev\MyProjects\Xamarin\Xamarin Forms\Test Projects\Buttons\SharingButtonCLick\SharingButtonCLick\SharingButtonCLick\bin\Debug\Xamarin.Forms.Core.xml
+D:\Binod\Dev\MyProjects\Xamarin\Xamarin Forms\Test Projects\Buttons\SharingButtonCLick\SharingButtonCLick\SharingButtonCLick\bin\Debug\Xamarin.Forms.Platform.pdb
+D:\Binod\Dev\MyProjects\Xamarin\Xamarin Forms\Test Projects\Buttons\SharingButtonCLick\SharingButtonCLick\SharingButtonCLick\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\Binod\Dev\MyProjects\Xamarin\Xamarin Forms\Test Projects\Buttons\SharingButtonCLick\SharingButtonCLick\SharingButtonCLick\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Binod\Dev\MyProjects\Xamarin\Xamarin Forms\Test Projects\Buttons\SharingButtonCLick\SharingButtonCLick\SharingButtonCLick\obj\Debug\SharingButtonCLick.csprojResolveAssemblyReference.cache
+D:\Binod\Dev\MyProjects\Xamarin\Xamarin Forms\Test Projects\Buttons\SharingButtonCLick\SharingButtonCLick\SharingButtonCLick\obj\Debug\SharingButtonCLick.App.xaml.g.cs
+D:\Binod\Dev\MyProjects\Xamarin\Xamarin Forms\Test Projects\Buttons\SharingButtonCLick\SharingButtonCLick\SharingButtonCLick\obj\Debug\SharingButtonCLick.dll
+D:\Binod\Dev\MyProjects\Xamarin\Xamarin Forms\Test Projects\Buttons\SharingButtonCLick\SharingButtonCLick\SharingButtonCLick\obj\Debug\SharingButtonCLick.pdb
+D:\Binod\Test Projects\Buttons\SharingButtonCLick\SharingButtonCLick\SharingButtonCLick\bin\Debug\SharingButtonCLick.dll
+D:\Binod\Test Projects\Buttons\SharingButtonCLick\SharingButtonCLick\SharingButtonCLick\bin\Debug\SharingButtonCLick.pdb
+D:\Binod\Test Projects\Buttons\SharingButtonCLick\SharingButtonCLick\SharingButtonCLick\bin\Debug\Xamarin.Forms.Core.dll
+D:\Binod\Test Projects\Buttons\SharingButtonCLick\SharingButtonCLick\SharingButtonCLick\bin\Debug\Xamarin.Forms.Platform.dll
+D:\Binod\Test Projects\Buttons\SharingButtonCLick\SharingButtonCLick\SharingButtonCLick\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Binod\Test Projects\Buttons\SharingButtonCLick\SharingButtonCLick\SharingButtonCLick\bin\Debug\Xamarin.Forms.Core.pdb
+D:\Binod\Test Projects\Buttons\SharingButtonCLick\SharingButtonCLick\SharingButtonCLick\bin\Debug\Xamarin.Forms.Core.xml
+D:\Binod\Test Projects\Buttons\SharingButtonCLick\SharingButtonCLick\SharingButtonCLick\bin\Debug\Xamarin.Forms.Platform.pdb
+D:\Binod\Test Projects\Buttons\SharingButtonCLick\SharingButtonCLick\SharingButtonCLick\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\Binod\Test Projects\Buttons\SharingButtonCLick\SharingButtonCLick\SharingButtonCLick\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Binod\Test Projects\Buttons\SharingButtonCLick\SharingButtonCLick\SharingButtonCLick\obj\Debug\SharingButtonCLick.csprojResolveAssemblyReference.cache
+D:\Binod\Test Projects\Buttons\SharingButtonCLick\SharingButtonCLick\SharingButtonCLick\obj\Debug\SharingButtonCLick.App.xaml.g.cs
+D:\Binod\Test Projects\Buttons\SharingButtonCLick\SharingButtonCLick\SharingButtonCLick\obj\Debug\SharingButtonCLick.dll
+D:\Binod\Test Projects\Buttons\SharingButtonCLick\SharingButtonCLick\SharingButtonCLick\obj\Debug\SharingButtonCLick.pdb

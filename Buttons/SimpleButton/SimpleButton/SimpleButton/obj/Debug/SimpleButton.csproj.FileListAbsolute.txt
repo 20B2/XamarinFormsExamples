@@ -1,0 +1,14 @@
+D:\Binod\Dev\MyProjects\Xamarin\Xamarin Forms\Test Projects\Buttons\SimpleButton\SimpleButton\SimpleButton\bin\Debug\SimpleButton.dll
+D:\Binod\Dev\MyProjects\Xamarin\Xamarin Forms\Test Projects\Buttons\SimpleButton\SimpleButton\SimpleButton\bin\Debug\SimpleButton.pdb
+D:\Binod\Dev\MyProjects\Xamarin\Xamarin Forms\Test Projects\Buttons\SimpleButton\SimpleButton\SimpleButton\bin\Debug\Xamarin.Forms.Core.dll
+D:\Binod\Dev\MyProjects\Xamarin\Xamarin Forms\Test Projects\Buttons\SimpleButton\SimpleButton\SimpleButton\bin\Debug\Xamarin.Forms.Platform.dll
+D:\Binod\Dev\MyProjects\Xamarin\Xamarin Forms\Test Projects\Buttons\SimpleButton\SimpleButton\SimpleButton\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Binod\Dev\MyProjects\Xamarin\Xamarin Forms\Test Projects\Buttons\SimpleButton\SimpleButton\SimpleButton\bin\Debug\Xamarin.Forms.Core.pdb
+D:\Binod\Dev\MyProjects\Xamarin\Xamarin Forms\Test Projects\Buttons\SimpleButton\SimpleButton\SimpleButton\bin\Debug\Xamarin.Forms.Core.xml
+D:\Binod\Dev\MyProjects\Xamarin\Xamarin Forms\Test Projects\Buttons\SimpleButton\SimpleButton\SimpleButton\bin\Debug\Xamarin.Forms.Platform.pdb
+D:\Binod\Dev\MyProjects\Xamarin\Xamarin Forms\Test Projects\Buttons\SimpleButton\SimpleButton\SimpleButton\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\Binod\Dev\MyProjects\Xamarin\Xamarin Forms\Test Projects\Buttons\SimpleButton\SimpleButton\SimpleButton\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Binod\Dev\MyProjects\Xamarin\Xamarin Forms\Test Projects\Buttons\SimpleButton\SimpleButton\SimpleButton\obj\Debug\SimpleButton.csprojResolveAssemblyReference.cache
+D:\Binod\Dev\MyProjects\Xamarin\Xamarin Forms\Test Projects\Buttons\SimpleButton\SimpleButton\SimpleButton\obj\Debug\SimpleButton.App.xaml.g.cs
+D:\Binod\Dev\MyProjects\Xamarin\Xamarin Forms\Test Projects\Buttons\SimpleButton\SimpleButton\SimpleButton\obj\Debug\SimpleButton.dll
+D:\Binod\Dev\MyProjects\Xamarin\Xamarin Forms\Test Projects\Buttons\SimpleButton\SimpleButton\SimpleButton\obj\Debug\SimpleButton.pdb

@@ -22272,16 +22272,16 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "D:\\Binod\\Dev\\MyProjects\\Xamarin\\Xamarin Forms\\Test Projects\\Buttons\\SimpleKeypad\\SimpleKeypad\\SimpleKeypad.UWP\\SimpleKeypad.UWP.csproj",
+      "projectUniqueName": "D:\\Binod\\Test Projects\\Buttons\\SimpleKeypad\\SimpleKeypad\\SimpleKeypad.UWP\\SimpleKeypad.UWP.csproj",
       "projectName": "SimpleKeypad.UWP",
-      "projectPath": "D:\\Binod\\Dev\\MyProjects\\Xamarin\\Xamarin Forms\\Test Projects\\Buttons\\SimpleKeypad\\SimpleKeypad\\SimpleKeypad.UWP\\SimpleKeypad.UWP.csproj",
-      "projectJsonPath": "D:\\Binod\\Dev\\MyProjects\\Xamarin\\Xamarin Forms\\Test Projects\\Buttons\\SimpleKeypad\\SimpleKeypad\\SimpleKeypad.UWP\\project.json",
+      "projectPath": "D:\\Binod\\Test Projects\\Buttons\\SimpleKeypad\\SimpleKeypad\\SimpleKeypad.UWP\\SimpleKeypad.UWP.csproj",
+      "projectJsonPath": "D:\\Binod\\Test Projects\\Buttons\\SimpleKeypad\\SimpleKeypad\\SimpleKeypad.UWP\\project.json",
       "projectStyle": "ProjectJson",
       "frameworks": {
         "uap10.0": {
           "projectReferences": {
-            "D:\\Binod\\Dev\\MyProjects\\Xamarin\\Xamarin Forms\\Test Projects\\Buttons\\SimpleKeypad\\SimpleKeypad\\SimpleKeypad\\SimpleKeypad.csproj": {
-              "projectPath": "D:\\Binod\\Dev\\MyProjects\\Xamarin\\Xamarin Forms\\Test Projects\\Buttons\\SimpleKeypad\\SimpleKeypad\\SimpleKeypad\\SimpleKeypad.csproj"
+            "D:\\Binod\\Test Projects\\Buttons\\SimpleKeypad\\SimpleKeypad\\SimpleKeypad\\SimpleKeypad.csproj": {
+              "projectPath": "D:\\Binod\\Test Projects\\Buttons\\SimpleKeypad\\SimpleKeypad\\SimpleKeypad\\SimpleKeypad.csproj"
             }
           }
         }

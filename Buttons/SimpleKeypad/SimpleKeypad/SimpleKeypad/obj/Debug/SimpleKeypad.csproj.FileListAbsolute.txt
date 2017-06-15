@@ -13,3 +13,18 @@ D:\Binod\Dev\MyProjects\Xamarin\Xamarin Forms\Test Projects\Buttons\SimpleKeypad
 D:\Binod\Dev\MyProjects\Xamarin\Xamarin Forms\Test Projects\Buttons\SimpleKeypad\SimpleKeypad\SimpleKeypad\obj\Debug\SimpleKeypad.App.xaml.g.cs
 D:\Binod\Dev\MyProjects\Xamarin\Xamarin Forms\Test Projects\Buttons\SimpleKeypad\SimpleKeypad\SimpleKeypad\obj\Debug\SimpleKeypad.dll
 D:\Binod\Dev\MyProjects\Xamarin\Xamarin Forms\Test Projects\Buttons\SimpleKeypad\SimpleKeypad\SimpleKeypad\obj\Debug\SimpleKeypad.pdb
+D:\Binod\Test Projects\Buttons\SimpleKeypad\SimpleKeypad\SimpleKeypad\bin\Debug\SimpleKeypad.dll
+D:\Binod\Test Projects\Buttons\SimpleKeypad\SimpleKeypad\SimpleKeypad\bin\Debug\SimpleKeypad.pdb
+D:\Binod\Test Projects\Buttons\SimpleKeypad\SimpleKeypad\SimpleKeypad\bin\Debug\Xamarin.Forms.Core.dll
+D:\Binod\Test Projects\Buttons\SimpleKeypad\SimpleKeypad\SimpleKeypad\bin\Debug\Xamarin.Forms.Platform.dll
+D:\Binod\Test Projects\Buttons\SimpleKeypad\SimpleKeypad\SimpleKeypad\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Binod\Test Projects\Buttons\SimpleKeypad\SimpleKeypad\SimpleKeypad\bin\Debug\Xamarin.Forms.Core.pdb
+D:\Binod\Test Projects\Buttons\SimpleKeypad\SimpleKeypad\SimpleKeypad\bin\Debug\Xamarin.Forms.Core.xml
+D:\Binod\Test Projects\Buttons\SimpleKeypad\SimpleKeypad\SimpleKeypad\bin\Debug\Xamarin.Forms.Platform.pdb
+D:\Binod\Test Projects\Buttons\SimpleKeypad\SimpleKeypad\SimpleKeypad\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\Binod\Test Projects\Buttons\SimpleKeypad\SimpleKeypad\SimpleKeypad\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Binod\Test Projects\Buttons\SimpleKeypad\SimpleKeypad\SimpleKeypad\obj\Debug\SimpleKeypad.csprojResolveAssemblyReference.cache
+D:\Binod\Test Projects\Buttons\SimpleKeypad\SimpleKeypad\SimpleKeypad\obj\Debug\SimpleKeypad.MainPage.xaml.g.cs
+D:\Binod\Test Projects\Buttons\SimpleKeypad\SimpleKeypad\SimpleKeypad\obj\Debug\SimpleKeypad.App.xaml.g.cs
+D:\Binod\Test Projects\Buttons\SimpleKeypad\SimpleKeypad\SimpleKeypad\obj\Debug\SimpleKeypad.dll
+D:\Binod\Test Projects\Buttons\SimpleKeypad\SimpleKeypad\SimpleKeypad\obj\Debug\SimpleKeypad.pdb

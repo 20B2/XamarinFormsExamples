@@ -71,6 +71,14 @@ namespace SimpleKeypad
 
             }
 
+
+            IDictionary<string, object> properties = Application.Current.Properties;
+            if(properties.ContainsKey("displayLabelText"))
+            {
+                displayLabel.Text = properties["displayLabelText"] as string;
+                backspaceButton.IsEnabled = displayLabel.Text.Length > 0;
+            }
+
             this.Content = mainStack;
         }
 
@@ -79,6 +87,7 @@ namespace SimpleKeypad
             Button button = (Button)sender;
             displayLabel.Text += (string)button.StyleId;
             backspaceButton.IsEnabled = true;
+            Application.Current.Properties["displayLabelText"] = displayLabel.Text;
         }
 
         private void BackspaceButton_Clicked(object sender, EventArgs e)
@@ -86,6 +95,8 @@ namespace SimpleKeypad
             String text = displayLabel.Text;
             displayLabel.Text = text.Substring(0, text.Length - 1);
             backspaceButton.IsEnabled = displayLabel.Text.Length > 0;
+            Application.Current.Properties["displayLabelText"] = displayLabel.Text;
         }
+
     }
 }

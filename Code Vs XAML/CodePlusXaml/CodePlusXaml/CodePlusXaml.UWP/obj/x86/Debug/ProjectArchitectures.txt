@@ -1,0 +1,2 @@
+D:\Binod\Test Projects\Code Vs XAML\CodePlusXaml\CodePlusXaml\CodePlusXaml.UWP\CodePlusXaml.UWP.csproj;x86
+D:\Binod\Test Projects\Code Vs XAML\CodePlusXaml\CodePlusXaml\CodePlusXaml\CodePlusXaml.csproj;neutral

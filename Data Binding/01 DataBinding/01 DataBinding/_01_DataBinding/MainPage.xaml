@@ -4,8 +4,26 @@
              xmlns:local="clr-namespace:_01_DataBinding"
              x:Class="_01_DataBinding.MainPage">
 
-	<Label Text="Welcome to Xamarin Forms!" 
-           VerticalOptions="Center" 
-           HorizontalOptions="Center" />
+    <StackLayout>
+        <Label Text="Data Binding Using XAML"
+               FontSize="Large" 
+               HorizontalTextAlignment="Center"
+               VerticalTextAlignment="Center"
+               FontAttributes="Bold"/>
+        
+        <Button Text="Click Me!!"
+                HorizontalOptions="Center"
+                Clicked="Button_Clicked"/>
+        
+        <Label Text="Binding Source Demo using XAML" 
+               FontSize="Large"
+               HorizontalOptions="Center"
+               VerticalOptions="CenterAndExpand"
+               Opacity="{Binding Source=
+                                    {x:Reference Name=slider},
+                                    Path=Value}"/>
+        <Slider x:Name="slider"
+                VerticalOptions="CenterAndExpand" />
+    </StackLayout>
 
 </ContentPage>

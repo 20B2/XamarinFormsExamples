@@ -11,8 +11,8 @@
 namespace _01_DataBinding {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("c:\\users\\bnod_\\documents\\visual studio 2017\\Projects\\01 DataBinding\\01 DataBindin" +
-        "g\\_01_DataBinding\\App.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("D:\\Binod\\Test Projects\\Data Binding\\01 DataBinding\\01 DataBinding\\_01_DataBinding" +
+        "\\App.xaml")]
     public partial class App : global::Xamarin.Forms.Application {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

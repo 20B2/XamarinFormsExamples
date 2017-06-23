@@ -13,8 +13,10 @@ namespace _01_DataBinding
         {
             InitializeComponent();
 
-            //MainPage = new _01_DataBinding.MainPage();
-            MainPage = new OpacityBindingCodePage();
+            MainPage = new _01_DataBinding.MainPage();
+
+            MainPage = new NavigationPage(new MainPage());
+            //MainPage = new OpacityBindingCodePage();
         }
 
         protected override void OnStart()

@@ -22,7 +22,6 @@ D:\Binod\Test Projects\Data Binding\01 DataBinding\01 DataBinding\_01_DataBindin
 D:\Binod\Test Projects\Data Binding\01 DataBinding\01 DataBinding\_01_DataBinding\bin\Debug\Xamarin.Forms.Platform.pdb
 D:\Binod\Test Projects\Data Binding\01 DataBinding\01 DataBinding\_01_DataBinding\bin\Debug\Xamarin.Forms.Xaml.pdb
 D:\Binod\Test Projects\Data Binding\01 DataBinding\01 DataBinding\_01_DataBinding\bin\Debug\Xamarin.Forms.Xaml.xml
-D:\Binod\Test Projects\Data Binding\01 DataBinding\01 DataBinding\_01_DataBinding\obj\Debug\_01_DataBinding.csprojResolveAssemblyReference.cache
 D:\Binod\Test Projects\Data Binding\01 DataBinding\01 DataBinding\_01_DataBinding\obj\Debug\_01_DataBinding.MainPage.xaml.g.cs
 D:\Binod\Test Projects\Data Binding\01 DataBinding\01 DataBinding\_01_DataBinding\obj\Debug\_01_DataBinding.App.xaml.g.cs
 D:\Binod\Test Projects\Data Binding\01 DataBinding\01 DataBinding\_01_DataBinding\obj\Debug\_01_DataBinding.dll

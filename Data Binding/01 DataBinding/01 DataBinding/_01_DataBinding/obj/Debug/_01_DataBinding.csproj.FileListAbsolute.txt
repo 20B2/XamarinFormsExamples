@@ -1,0 +1,14 @@
+c:\users\bnod_\documents\visual studio 2017\Projects\01 DataBinding\01 DataBinding\_01_DataBinding\bin\Debug\_01_DataBinding.dll
+c:\users\bnod_\documents\visual studio 2017\Projects\01 DataBinding\01 DataBinding\_01_DataBinding\bin\Debug\_01_DataBinding.pdb
+c:\users\bnod_\documents\visual studio 2017\Projects\01 DataBinding\01 DataBinding\_01_DataBinding\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\bnod_\documents\visual studio 2017\Projects\01 DataBinding\01 DataBinding\_01_DataBinding\bin\Debug\Xamarin.Forms.Platform.dll
+c:\users\bnod_\documents\visual studio 2017\Projects\01 DataBinding\01 DataBinding\_01_DataBinding\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\bnod_\documents\visual studio 2017\Projects\01 DataBinding\01 DataBinding\_01_DataBinding\bin\Debug\Xamarin.Forms.Core.pdb
+c:\users\bnod_\documents\visual studio 2017\Projects\01 DataBinding\01 DataBinding\_01_DataBinding\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\bnod_\documents\visual studio 2017\Projects\01 DataBinding\01 DataBinding\_01_DataBinding\bin\Debug\Xamarin.Forms.Platform.pdb
+c:\users\bnod_\documents\visual studio 2017\Projects\01 DataBinding\01 DataBinding\_01_DataBinding\bin\Debug\Xamarin.Forms.Xaml.pdb
+c:\users\bnod_\documents\visual studio 2017\Projects\01 DataBinding\01 DataBinding\_01_DataBinding\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\bnod_\documents\visual studio 2017\Projects\01 DataBinding\01 DataBinding\_01_DataBinding\obj\Debug\_01_DataBinding.MainPage.xaml.g.cs
+c:\users\bnod_\documents\visual studio 2017\Projects\01 DataBinding\01 DataBinding\_01_DataBinding\obj\Debug\_01_DataBinding.App.xaml.g.cs
+c:\users\bnod_\documents\visual studio 2017\Projects\01 DataBinding\01 DataBinding\_01_DataBinding\obj\Debug\_01_DataBinding.dll
+c:\users\bnod_\documents\visual studio 2017\Projects\01 DataBinding\01 DataBinding\_01_DataBinding\obj\Debug\_01_DataBinding.pdb

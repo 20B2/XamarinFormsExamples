@@ -24,11 +24,21 @@ namespace _01_DataBinding
                 VerticalOptions = LayoutOptions.CenterAndExpand,
             };
 
-            //Set the binding context: target is Label; source is Slider.
-            label.BindingContext = slider;
+            //First Method
+            ////Set the binding context: target is Label; source is Slider.
+            //label.BindingContext = slider;
 
-            //Bind the properties: target is Opacity; source is Value
-            label.SetBinding(Label.OpacityProperty, "Value");
+            ////Bind the properties: target is Opacity; source is Value
+            //label.SetBinding(Label.OpacityProperty, "Value");
+
+            //Second Method
+            Binding binding = new Binding
+            {
+                Source = slider,
+                Path = "Value",
+            };
+
+            label.SetBinding(Label.OpacityProperty, binding);
 
             //Construct the Page
             Padding = new Thickness(10, 0);

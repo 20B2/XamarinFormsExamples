@@ -22272,16 +22272,16 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "c:\\users\\bnod_\\documents\\visual studio 2017\\Projects\\01 DataBinding\\01 DataBinding\\_01_DataBinding.UWP\\_01_DataBinding.UWP.csproj",
+      "projectUniqueName": "D:\\Binod\\Test Projects\\Data Binding\\01 DataBinding\\01 DataBinding\\_01_DataBinding.UWP\\_01_DataBinding.UWP.csproj",
       "projectName": "_01_DataBinding.UWP",
-      "projectPath": "c:\\users\\bnod_\\documents\\visual studio 2017\\Projects\\01 DataBinding\\01 DataBinding\\_01_DataBinding.UWP\\_01_DataBinding.UWP.csproj",
-      "projectJsonPath": "c:\\users\\bnod_\\documents\\visual studio 2017\\Projects\\01 DataBinding\\01 DataBinding\\_01_DataBinding.UWP\\project.json",
+      "projectPath": "D:\\Binod\\Test Projects\\Data Binding\\01 DataBinding\\01 DataBinding\\_01_DataBinding.UWP\\_01_DataBinding.UWP.csproj",
+      "projectJsonPath": "D:\\Binod\\Test Projects\\Data Binding\\01 DataBinding\\01 DataBinding\\_01_DataBinding.UWP\\project.json",
       "projectStyle": "ProjectJson",
       "frameworks": {
         "uap10.0": {
           "projectReferences": {
-            "c:\\users\\bnod_\\documents\\visual studio 2017\\Projects\\01 DataBinding\\01 DataBinding\\_01_DataBinding\\_01_DataBinding.csproj": {
-              "projectPath": "c:\\users\\bnod_\\documents\\visual studio 2017\\Projects\\01 DataBinding\\01 DataBinding\\_01_DataBinding\\_01_DataBinding.csproj"
+            "D:\\Binod\\Test Projects\\Data Binding\\01 DataBinding\\01 DataBinding\\_01_DataBinding\\_01_DataBinding.csproj": {
+              "projectPath": "D:\\Binod\\Test Projects\\Data Binding\\01 DataBinding\\01 DataBinding\\_01_DataBinding\\_01_DataBinding.csproj"
             }
           }
         }
